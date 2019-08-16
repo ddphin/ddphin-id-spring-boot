@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /api #设置项目ContextPath
+  port: 8080 #设置Tomcat端口，默认8080
+  tomcat:
+    uri-encoding: UTF-8 #设置Tomcat编码
