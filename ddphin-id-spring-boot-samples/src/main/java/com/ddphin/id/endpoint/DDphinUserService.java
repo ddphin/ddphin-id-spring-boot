@@ -1,6 +1,5 @@
-package com.ddphin.security.endpoint;
+package com.ddphin.id.endpoint;
 
-import com.ddphin.id.endpoint.IDWorkerAware;
 import org.springframework.stereotype.Service;
 
 /**

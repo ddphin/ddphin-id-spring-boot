@@ -45,7 +45,7 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
-        <!-- security -->
+        <!-- id -->
         <dependency>
             <groupId>com.github.ddphin</groupId>
             <artifactId>ddphin-id</artifactId>
