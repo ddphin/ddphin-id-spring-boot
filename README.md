@@ -36,7 +36,7 @@
      - prefixDigits： 前缀的位数
    <br>
    <br>一般，不同类的entity之间可以id相同，同类的entity之间id不能相同
-   <br>每个继承`IDWorkerAware`的类都将使用一个独立的ID生成器获取ID
+   <br>每个继承IDWorkerAware的类都将使用一个独立的ID生成器获取ID
 
 ## 举例
 [请查看 ddphin-id-spring-boot-samples](https://github.com/ddphin/ddphin-id-spring-boot/tree/master/ddphin-id-spring-boot-samples)   
